@@ -4,21 +4,26 @@
 // FORM: https://docs.google.com/forms/d/e/1FAIpQLScQzfKeTT3ZHkNc68ctElcDDLVgm5Kr-C35MgZM9qyWG7JI2Q/viewform
 
 let pipoca = {
+  nome: 'pipoca',
   defaultTime: 10
 }
 let macarrao = {
+  nome: 'macarrão',
   defaultTime: 8
 }
 
 let carne = {
+  nome: 'carne',
   defaultTime: 15
 }
 
 let feijao = {
+  nome: 'feijão',
   defaultTime: 12
 }
 
 let brigadeiro = {
+  nome: 'brigadeiro',
   defaultTime: 8
 }
 
